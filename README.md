@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Paul080
+- 👀 I’m interested in development of Special Electronic Medical devices.
+- 🌱 I’m currently learning how to program ATtiny10 AVR.
+- 💞️ I’m looking to collaborate on 'translating' an ATtiny85 code to run on ATtiny10
+- 📫 You can reach me at <pm45@mweb.co.za>
